@@ -1,15 +1,24 @@
-# SillyTavern Chub Search
+# Fixed SillyTavern Chub Search
 
-SillyTavern Chub Search is an which provides a quick and easy way to search for new cards from [CHUB](https://www.chub.ai/about) from the comfort of your tavern. 
+Fixed SillyTavern Chub Search is a FIX for the SillyTavern Search Chub Search Extension which provides a quick and easy way to search for new cards from [CHUB](https://www.chub.ai/about) from the comfort of your tavern. 
+
+> [!WARNING]
+> ## While Chub is for general purpose character searching, Chub contains a lot of **Not Safe For Work** content, even if NSFW is not ticked.
+> However, if you know what you are doing, please proceed.
+
 
 ![image](https://github.com/city-unit/SillyTavern-Chub-Search/assets/140349364/648e43ae-3ed0-4673-b024-f4ba7846998c)
 
+# About the fork
+
+This fork contains a fixed version of the plugin with the fixed domain as it uses an old one, which causes an error, along with some quality of life extra features.
 
 ## Installation and Usage
 
-Utilize SillyTavern's third party extension importer to install.
+Open up the extensions tab ![image](https://github.com/realcoloride/Fixed-SillyTavern-Chub-Search/assets/108619637/9b875035-3d68-4c31-9d8e-2a3ca7562190), then click on `Install extension` ![image](https://github.com/realcoloride/Fixed-SillyTavern-Chub-Search/assets/108619637/941ec0d2-0354-4c4c-b948-14b90e26b5d3) and copy the link of the repository (`https://github.com/realcoloride/Fixed-SillyTavern-Chub-Search/`) into the bar and click Save.
 
-![image](https://github.com/city-unit/st-auto-tagger/assets/1860540/188b8ba5-c121-4357-96f8-a45bd60cf8a5)
+![chrome_bTeVhvhp7x](https://github.com/realcoloride/Fixed-SillyTavern-Chub-Search/assets/108619637/d16ae1cb-36b0-4993-9933-56cc545252e2)
+
 
 To use the search, click the thunderbolt icon.
 
@@ -26,4 +35,4 @@ If you encounter any issues while using this extension, please file an issue on 
 
 ## License
 
-SillyTavern Chub Search is available under the [MIT License](https://github.com/city-unit/st-chub-search/blob/main/LICENSE).
+SillyTavern Chub Search (along with this fixed version) are available under the [MIT License](https://github.com/city-unit/st-chub-search/blob/main/LICENSE).
