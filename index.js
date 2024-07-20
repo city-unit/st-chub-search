@@ -59,8 +59,8 @@ async function downloadCharacter(input) {
     const url = input.trim();
     console.debug('Custom content import started', url);
     let request = null;
-    // try /api/content/import first and then /import_custom
-    request = await fetch('/api/content/import', {
+    // try /api/content/importURL first and then /import_custom
+    request = await fetch('/api/content/importURL', {
         method: 'POST',
         headers: getRequestHeaders(),
         body: JSON.stringify({ url }),
